@@ -1,0 +1,5 @@
+{
+  "name": "openshift-test",
+  "private": true,
+  "dependencies": {}
+}
